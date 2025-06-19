@@ -1,0 +1,3 @@
+E:/PROJECTS/pokeclone/build/CMakeFiles/Pokeclone.dir
+E:/PROJECTS/pokeclone/build/CMakeFiles/edit_cache.dir
+E:/PROJECTS/pokeclone/build/CMakeFiles/rebuild_cache.dir
